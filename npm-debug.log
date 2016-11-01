@@ -1,0 +1,285 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'eslint-config-semistandard',
+1 verbose cli   '--save-dev' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/package.json
+5 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/axios/package.json
+6 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-core/package.json
+7 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-loader/package.json
+8 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-polyfill/package.json
+9 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-preset-es2015/package.json
+10 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-preset-react/package.json
+11 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-register/package.json
+12 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/chai/package.json
+13 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/enzyme/package.json
+14 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint/package.json
+15 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard/package.json
+16 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-standard/package.json
+17 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-standard-jsx/package.json
+18 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-standard-react/package.json
+19 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-loader/package.json
+20 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-plugin-promise/package.json
+21 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-plugin-react/package.json
+22 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-plugin-standard/package.json
+23 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/express/package.json
+24 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/jsdom/package.json
+25 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/json-loader/package.json
+26 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/lodash/package.json
+27 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/mocha/package.json
+28 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/node-ensure/package.json
+29 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/nyc/package.json
+30 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react/package.json
+31 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-addons-test-utils/package.json
+32 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-dom/package.json
+33 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-redux/package.json
+34 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-router/package.json
+35 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/redux/package.json
+36 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/sinon/package.json
+37 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/standard/package.json
+38 verbose installManyTop reading scoped package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/webpack/package.json
+39 info package.json babel-polyfill@6.7.4 No description
+40 verbose readDependencies loading dependencies from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/package.json
+41 verbose install eslint-config-semistandard is installed as 7.0.0
+42 silly cache add args [ 'eslint-config-semistandard', null ]
+43 verbose cache add spec eslint-config-semistandard
+44 silly cache add parsed spec Result {
+44 silly cache add   raw: 'eslint-config-semistandard',
+44 silly cache add   scope: null,
+44 silly cache add   name: 'eslint-config-semistandard',
+44 silly cache add   rawSpec: '',
+44 silly cache add   spec: 'latest',
+44 silly cache add   type: 'tag' }
+45 silly addNamed eslint-config-semistandard@latest
+46 verbose addNamed "latest" is being treated as a dist-tag for eslint-config-semistandard
+47 info addNameTag [ 'eslint-config-semistandard', 'latest' ]
+48 silly mapToRegistry name eslint-config-semistandard
+49 silly mapToRegistry using default registry
+50 silly mapToRegistry registry https://registry.npmjs.org/
+51 silly mapToRegistry data Result {
+51 silly mapToRegistry   raw: 'eslint-config-semistandard',
+51 silly mapToRegistry   scope: null,
+51 silly mapToRegistry   name: 'eslint-config-semistandard',
+51 silly mapToRegistry   rawSpec: '',
+51 silly mapToRegistry   spec: 'latest',
+51 silly mapToRegistry   type: 'tag' }
+52 silly mapToRegistry uri https://registry.npmjs.org/eslint-config-semistandard
+53 verbose addNameTag registry:https://registry.npmjs.org/eslint-config-semistandard not in flight; fetching
+54 verbose request uri https://registry.npmjs.org/eslint-config-semistandard
+55 verbose request no auth needed
+56 info attempt registry request try #1 at 10:54:27 AM
+57 verbose request id b9543ddf5ec69ed7
+58 verbose etag "3DNHG77H7BB8VCKDZAY8RHF4H"
+59 http request GET https://registry.npmjs.org/eslint-config-semistandard
+60 http 304 https://registry.npmjs.org/eslint-config-semistandard
+61 verbose headers { date: 'Tue, 01 Nov 2016 09:54:28 GMT',
+61 verbose headers   via: '1.1 varnish',
+61 verbose headers   'cache-control': 'max-age=300',
+61 verbose headers   etag: '"3DNHG77H7BB8VCKDZAY8RHF4H"',
+61 verbose headers   age: '21',
+61 verbose headers   connection: 'keep-alive',
+61 verbose headers   'x-served-by': 'cache-ams4426-AMS',
+61 verbose headers   'x-cache': 'HIT',
+61 verbose headers   'x-cache-hits': '1',
+61 verbose headers   'x-timer': 'S1477994068.196556,VS0,VE0',
+61 verbose headers   vary: 'Accept-Encoding' }
+62 silly get cb [ 304,
+62 silly get   { date: 'Tue, 01 Nov 2016 09:54:28 GMT',
+62 silly get     via: '1.1 varnish',
+62 silly get     'cache-control': 'max-age=300',
+62 silly get     etag: '"3DNHG77H7BB8VCKDZAY8RHF4H"',
+62 silly get     age: '21',
+62 silly get     connection: 'keep-alive',
+62 silly get     'x-served-by': 'cache-ams4426-AMS',
+62 silly get     'x-cache': 'HIT',
+62 silly get     'x-cache-hits': '1',
+62 silly get     'x-timer': 'S1477994068.196556,VS0,VE0',
+62 silly get     vary: 'Accept-Encoding' } ]
+63 verbose etag https://registry.npmjs.org/eslint-config-semistandard from cache
+64 verbose get saving eslint-config-semistandard to /Users/mrooze01/.npm/registry.npmjs.org/eslint-config-semistandard/.cache.json
+65 verbose correctMkdir /Users/mrooze01/.npm correctMkdir not in flight; initializing
+66 silly addNameTag next cb for eslint-config-semistandard with tag latest
+67 silly addNamed eslint-config-semistandard@7.0.0
+68 verbose addNamed "7.0.0" is a plain semver version for eslint-config-semistandard
+69 silly cache afterAdd eslint-config-semistandard@7.0.0
+70 verbose afterAdd /Users/mrooze01/.npm/eslint-config-semistandard/7.0.0/package/package.json not in flight; writing
+71 verbose correctMkdir /Users/mrooze01/.npm correctMkdir not in flight; initializing
+72 verbose afterAdd /Users/mrooze01/.npm/eslint-config-semistandard/7.0.0/package/package.json written
+73 silly install resolved [ { name: 'eslint-config-semistandard',
+73 silly install resolved     description: 'eslint sharable config for semistandard',
+73 silly install resolved     version: '7.0.0',
+73 silly install resolved     author: { name: 'Dan Flettre', email: 'fletd01@yahoo.com' },
+73 silly install resolved     bugs: { url: 'https://github.com/Flet/eslint-config-semistandard/issues' },
+73 silly install resolved     devDependencies:
+73 silly install resolved      { eslint: '^3.4.0',
+73 silly install resolved        'eslint-config-standard': '^6.0.0',
+73 silly install resolved        'eslint-plugin-standard': '^2.0.0',
+73 silly install resolved        standard: '^8.0.0',
+73 silly install resolved        'tap-spec': '^4.0.0',
+73 silly install resolved        tape: '^4.6.0' },
+73 silly install resolved     homepage: 'https://github.com/Flet/eslint-config-semistandard',
+73 silly install resolved     keywords:
+73 silly install resolved      [ 'semistandard',
+73 silly install resolved        'style checker',
+73 silly install resolved        'code style',
+73 silly install resolved        'code checker',
+73 silly install resolved        'code linter',
+73 silly install resolved        'style linter',
+73 silly install resolved        'simple',
+73 silly install resolved        'policy',
+73 silly install resolved        'style',
+73 silly install resolved        'code',
+73 silly install resolved        'lint',
+73 silly install resolved        'eslint',
+73 silly install resolved        'eslintconfig',
+73 silly install resolved        'jshint',
+73 silly install resolved        'jscs',
+73 silly install resolved        'hint',
+73 silly install resolved        'enforce',
+73 silly install resolved        'check',
+73 silly install resolved        'verify',
+73 silly install resolved        'quality',
+73 silly install resolved        'checker',
+73 silly install resolved        'code standards',
+73 silly install resolved        'JavaScript Semistandard Style',
+73 silly install resolved        'semistandard style',
+73 silly install resolved        'eslintconfig' ],
+73 silly install resolved     license: 'ISC',
+73 silly install resolved     main: 'index.js',
+73 silly install resolved     repository:
+73 silly install resolved      { type: 'git',
+73 silly install resolved        url: 'git+https://github.com/Flet/eslint-config-semistandard.git' },
+73 silly install resolved     scripts: { test: 'standard && tape test/*.js | tap-spec' },
+73 silly install resolved     peerDependencies: { 'eslint-config-standard': '^6.0.0' },
+73 silly install resolved     gitHead: 'f582a7cd82e4bb5d7cab6277c70deedcce2e44f8',
+73 silly install resolved     _id: 'eslint-config-semistandard@7.0.0',
+73 silly install resolved     _shasum: 'f803493f56a5172f7f59c35ae648360b41f2ff71',
+73 silly install resolved     _from: 'eslint-config-semistandard@latest',
+73 silly install resolved     _npmVersion: '3.10.3',
+73 silly install resolved     _nodeVersion: '6.3.0',
+73 silly install resolved     _npmUser: { name: 'flet', email: 'flettre@gmail.com' },
+73 silly install resolved     dist:
+73 silly install resolved      { shasum: 'f803493f56a5172f7f59c35ae648360b41f2ff71',
+73 silly install resolved        tarball: 'https://registry.npmjs.org/eslint-config-semistandard/-/eslint-config-semistandard-7.0.0.tgz' },
+73 silly install resolved     maintainers: [ [Object], [Object] ],
+73 silly install resolved     _npmOperationalInternal:
+73 silly install resolved      { host: 'packages-16-east.internal.npmjs.com',
+73 silly install resolved        tmp: 'tmp/eslint-config-semistandard-7.0.0.tgz_1472931409056_0.8385468379128724' },
+73 silly install resolved     directories: {},
+73 silly install resolved     _resolved: 'https://registry.npmjs.org/eslint-config-semistandard/-/eslint-config-semistandard-7.0.0.tgz',
+73 silly install resolved     readme: 'ERROR: No README data found!' } ]
+74 info install eslint-config-semistandard@7.0.0 into /Users/mrooze01/Localhost/algemeen/complete-intro-to-react
+75 info installOne eslint-config-semistandard@7.0.0
+76 verbose installOne of eslint-config-semistandard to /Users/mrooze01/Localhost/algemeen/complete-intro-to-react not in flight; installing
+77 verbose correctMkdir /Users/mrooze01/.npm/_locks correctMkdir not in flight; initializing
+78 verbose lock using /Users/mrooze01/.npm/_locks/eslint-config-semistanda-1734e10cae2ac14e.lock for /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+79 silly install write writing eslint-config-semistandard 7.0.0 to /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+80 verbose unbuild node_modules/eslint-config-semistandard
+81 info preuninstall eslint-config-semistandard@7.0.0
+82 info uninstall eslint-config-semistandard@7.0.0
+83 verbose unbuild rmStuff eslint-config-semistandard@7.0.0 from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules
+84 info postuninstall eslint-config-semistandard@7.0.0
+85 silly gentlyRm /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard is being purged from base /Users/mrooze01/Localhost/algemeen/complete-intro-to-react
+86 verbose gentlyRm don't care about contents; nuking /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+87 silly vacuum-fs purging /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+88 silly vacuum-fs quitting because other entries in /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules
+89 verbose tar unpack /Users/mrooze01/.npm/eslint-config-semistandard/7.0.0/package.tgz
+90 verbose tar unpacking to /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+91 silly gentlyRm /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard is being purged
+92 verbose gentlyRm don't care about contents; nuking /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+93 silly gunzTarPerm modes [ '755', '644' ]
+94 silly gunzTarPerm extractEntry package.json
+95 silly gunzTarPerm extractEntry .npmignore
+96 silly gunzTarPerm extractEntry README.md
+97 silly gunzTarPerm extractEntry index.js
+98 silly gunzTarPerm extractEntry CONTRIBUTING.md
+99 silly gunzTarPerm extractEntry LICENSE.md
+100 silly gunzTarPerm extractEntry eslintrc.json
+101 silly gunzTarPerm extractEntry .travis.yml
+102 silly gunzTarPerm extractEntry CHANGELOG.md
+103 silly gunzTarPerm extractEntry test/index.js
+104 verbose write writing to /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard/package.json
+105 info preinstall eslint-config-semistandard@7.0.0
+106 verbose readDependencies loading dependencies from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard/package.json
+107 silly prepareForInstallMany adding eslint-config-standard@^6.0.0 from eslint-config-semistandard peerDependencies
+108 warn peerDependencies The peer dependency eslint-config-standard@^6.0.0 included from eslint-config-semistandard will no
+109 warn peerDependencies longer be automatically installed to fulfill the peerDependency
+110 warn peerDependencies in npm 3+. Your application will need to depend on it explicitly.
+111 verbose readDependencies loading dependencies from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard/package.json
+112 silly install resolved []
+113 verbose about to build /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+114 info build /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+115 info linkStuff eslint-config-semistandard@7.0.0
+116 silly linkStuff eslint-config-semistandard@7.0.0 has /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules as its parent node_modules
+117 verbose linkBins eslint-config-semistandard@7.0.0
+118 verbose linkMans eslint-config-semistandard@7.0.0
+119 verbose rebuildBundles eslint-config-semistandard@7.0.0
+120 info install eslint-config-semistandard@7.0.0
+121 info postinstall eslint-config-semistandard@7.0.0
+122 verbose readDependencies loading dependencies from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/package.json
+123 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/axios/package.json
+124 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-core/package.json
+125 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-loader/package.json
+126 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-polyfill/package.json
+127 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-preset-es2015/package.json
+128 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-preset-react/package.json
+129 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/babel-register/package.json
+130 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/chai/package.json
+131 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/enzyme/package.json
+132 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint/package.json
+133 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard/package.json
+134 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-standard/package.json
+135 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-standard-jsx/package.json
+136 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-standard-react/package.json
+137 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-loader/package.json
+138 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-plugin-promise/package.json
+139 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-plugin-react/package.json
+140 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-plugin-standard/package.json
+141 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/express/package.json
+142 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/jsdom/package.json
+143 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/json-loader/package.json
+144 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/lodash/package.json
+145 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/mocha/package.json
+146 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/node-ensure/package.json
+147 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/nyc/package.json
+148 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react/package.json
+149 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-addons-test-utils/package.json
+150 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-dom/package.json
+151 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-redux/package.json
+152 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/react-router/package.json
+153 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/redux/package.json
+154 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/sinon/package.json
+155 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/standard/package.json
+156 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/webpack/package.json
+157 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/.bin/eslint/package.json
+158 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/.bin/mocha/package.json
+159 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/.bin/nyc/package.json
+160 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/.bin/standard/package.json
+161 verbose targetResolver reading package data from /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/.bin/webpack/package.json
+162 verbose already installed skipping eslint-config-standard@^6.0.0 /Users/mrooze01/Localhost/algemeen/complete-intro-to-react
+163 silly install resolved []
+164 verbose unlock done using /Users/mrooze01/.npm/_locks/eslint-config-semistanda-1734e10cae2ac14e.lock for /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/node_modules/eslint-config-semistandard
+165 verbose validateInstall loading /Users/mrooze01/Localhost/algemeen/complete-intro-to-react/package.json for validation
+166 verbose stack Error: The package eslint-config-standard@5.1.0 does not satisfy its siblings' peerDependencies requirements!
+166 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+166 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:268:7
+166 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+166 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+166 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+166 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+166 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+166 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+166 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+166 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+167 verbose cwd /Users/mrooze01/Localhost/algemeen/complete-intro-to-react
+168 error Darwin 15.6.0
+169 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "eslint-config-semistandard" "--save-dev"
+170 error node v4.4.7
+171 error npm  v2.15.8
+172 error code EPEERINVALID
+173 error peerinvalid The package eslint-config-standard@5.1.0 does not satisfy its siblings' peerDependencies requirements!
+173 error peerinvalid Peer eslint-config-semistandard@7.0.0 wants eslint-config-standard@^6.0.0
+174 verbose exit [ 1, true ]
