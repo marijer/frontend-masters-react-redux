@@ -1,6 +1,6 @@
 const React = require('react');
-const data = require('../public/data');
 const ShowCard = require('./ShowCard');
+const {object } = React.PropTypes;
 
 class Search extends React.Component {
   constructor(props) {
@@ -29,7 +29,7 @@ class Search extends React.Component {
                 placeholder='Search' />
         </header>
       <div className='shows'>
-        {data.shows
+        {this.props.route.shows
           .filter((show) => `${show.title} ${show.description}`.toUpperCase()
               .indexOf(this.state.searchTerm.toUpperCase()) >= 0)
           .map((show) => {
@@ -39,5 +39,9 @@ class Search extends React.Component {
     </div>
   )}
 };
+
+Search.propTypes = {
+  route: object
+}
 
 module.exports = Search;
